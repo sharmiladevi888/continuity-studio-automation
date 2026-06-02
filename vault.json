@@ -1,0 +1,29 @@
+{
+  "granted": {
+    "base_url": "https://api-direct.derouter.network/openai/v1",
+    "model": "gpt-image-2",
+    "multi_image_edit": false,
+    "claude_base_url": "https://api.derouter.network/proxy",
+    "claude_model": "claude-sonnet-4-6"
+  },
+  "sickvamsick9@gmail.com": {
+    "api_key": "sk-ant-b257660c2ab4617364c06a91976cbd75e6ebd8a2d0069bca03ecd172f8518f49",
+    "base_url": "https://api-direct.derouter.network/openai/v1",
+    "model": "gpt-image-2",
+    "multi_image_edit": false,
+    "claude_api_key": "sk-ant-b257660c2ab4617364c06a91976cbd75e6ebd8a2d0069bca03ecd172f8518f49",
+    "claude_base_url": "https://api.derouter.network/proxy",
+    "claude_model": "claude-opus-4-7",
+    "elevenlabs_api_key": "sk_25de0673a91ad183e9a247d53e6275f859c2caa8bb4fde49"
+  },
+  "sickvamsick@gmail.com": {
+    "api_key": "sk-ant-b257660c2ab4617364c06a91976cbd75e6ebd8a2d0069bca03ecd172f8518f49",
+    "base_url": "https://api-direct.derouter.network/openai/v1",
+    "model": "gpt-image-2",
+    "multi_image_edit": false,
+    "claude_api_key": "sk-ant-b257660c2ab4617364c06a91976cbd75e6ebd8a2d0069bca03ecd172f8518f49",
+    "claude_base_url": "https://api.derouter.network/proxy",
+    "claude_model": "claude-sonnet-4-6",
+    "elevenlabs_api_key": "sk_25de0673a91ad183e9a247d53e6275f859c2caa8bb4fde49"
+  }
+}
